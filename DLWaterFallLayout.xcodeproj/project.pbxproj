@@ -17,6 +17,7 @@
 		0C0E9B1523C5A07C002CB98D /* DLFlowLayout.m in Sources */ = {isa = PBXBuildFile; fileRef = 0C0E9B1423C5A07C002CB98D /* DLFlowLayout.m */; };
 		0C0E9B1823C5C9D1002CB98D /* FLFTactLayoutListFlowLayout.m in Sources */ = {isa = PBXBuildFile; fileRef = 0C0E9B1723C5C9D1002CB98D /* FLFTactLayoutListFlowLayout.m */; };
 		0CCB545C23C6CAEF00F4DCD9 /* FLFTactLayoutListMasonryLayout.m in Sources */ = {isa = PBXBuildFile; fileRef = 0CCB545B23C6CAEF00F4DCD9 /* FLFTactLayoutListMasonryLayout.m */; };
+		0CCB545F23C7316700F4DCD9 /* HPCollectionViewWaterfallLayout.m in Sources */ = {isa = PBXBuildFile; fileRef = 0CCB545D23C7316700F4DCD9 /* HPCollectionViewWaterfallLayout.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -38,6 +39,8 @@
 		0C0E9B1723C5C9D1002CB98D /* FLFTactLayoutListFlowLayout.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FLFTactLayoutListFlowLayout.m; sourceTree = "<group>"; };
 		0CCB545A23C6CAEF00F4DCD9 /* FLFTactLayoutListMasonryLayout.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = FLFTactLayoutListMasonryLayout.h; sourceTree = "<group>"; };
 		0CCB545B23C6CAEF00F4DCD9 /* FLFTactLayoutListMasonryLayout.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = FLFTactLayoutListMasonryLayout.m; sourceTree = "<group>"; };
+		0CCB545D23C7316700F4DCD9 /* HPCollectionViewWaterfallLayout.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HPCollectionViewWaterfallLayout.m; sourceTree = "<group>"; };
+		0CCB545E23C7316700F4DCD9 /* HPCollectionViewWaterfallLayout.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HPCollectionViewWaterfallLayout.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -82,6 +85,8 @@
 				0CCB545B23C6CAEF00F4DCD9 /* FLFTactLayoutListMasonryLayout.m */,
 				0C0E9B1623C5C9D0002CB98D /* FLFTactLayoutListFlowLayout.h */,
 				0C0E9B1723C5C9D1002CB98D /* FLFTactLayoutListFlowLayout.m */,
+				0CCB545E23C7316700F4DCD9 /* HPCollectionViewWaterfallLayout.h */,
+				0CCB545D23C7316700F4DCD9 /* HPCollectionViewWaterfallLayout.m */,
 				0C0E9B0323C59FF5002CB98D /* Main.storyboard */,
 				0C0E9B0623C59FFA002CB98D /* Assets.xcassets */,
 				0C0E9B0823C59FFA002CB98D /* LaunchScreen.storyboard */,
@@ -162,6 +167,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				0C0E9B0223C59FF5002CB98D /* ViewController.m in Sources */,
+				0CCB545F23C7316700F4DCD9 /* HPCollectionViewWaterfallLayout.m in Sources */,
 				0CCB545C23C6CAEF00F4DCD9 /* FLFTactLayoutListMasonryLayout.m in Sources */,
 				0C0E9AFC23C59FF5002CB98D /* AppDelegate.m in Sources */,
 				0C0E9B0D23C59FFA002CB98D /* main.m in Sources */,
